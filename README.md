@@ -1,7 +1,3 @@
-Here's your updated text with the link to your portfolio added at the bottom:
-
----
-
 # 👋 Hi, I’m Karl Bandlien!
 
 ## 💻 Junior Software Developer | Proficient in **Python** **JavaScript**  
